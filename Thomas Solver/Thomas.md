@@ -1,5 +1,3 @@
-Okay, let's rewrite the Thomas Algorithm description, starting the numbering from 1 for the steps:
-
 ### Thomas Algorithm (Tridiagonal Matrix Algorithm)
 
 The **Thomas algorithm**, also known as the **Tridiagonal Matrix Algorithm (TDMA)**, is an efficient method specifically designed for solving systems of linear equations where the coefficient matrix is **tridiagonal**. A tridiagonal matrix is an $N \times N$ matrix with non-zero elements only on the main diagonal, the first superdiagonal (the diagonal immediately above the main diagonal), and the first subdiagonal (the diagonal immediately below the main diagonal).
