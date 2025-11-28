@@ -78,7 +78,7 @@ $$
   &   & .. &   &   \\
   &   & & ..  & \alpha \\
   &   & & \alpha & \beta \\
-\end{pmatrix} \quad  C = \gamma I_m \quad \text{and} \quad S_i = \begin{pmatrix} S_{i,1} \\ S_{i,2} \\. . \\. . \\ S_{i,M} \end{pmatrix} 
+\end{pmatrix} \quad  C = \gamma I_m \quad \text{and} \quad S_i = \begin{pmatrix} S_{i,1} \\ S_{i,2} \\ .. \\ .. \\ S_{i,M} \end{pmatrix} 
 $$
 
 To solve the system, we propose using the **Fourier Tridiagonal Method**.
